@@ -12,6 +12,8 @@ namespace GITMVC.Controllers
     /// <summary>
     /// /11111111122222
     /// </summary>
+    /// 
+//test2
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
