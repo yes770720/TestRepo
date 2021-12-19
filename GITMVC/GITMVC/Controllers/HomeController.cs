@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace GITMVC.Controllers
 {
+    /// <summary>
+    /// /111111111
+    /// </summary>
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
